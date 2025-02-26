@@ -1,6 +1,6 @@
 ﻿# _**ManiaCalc**_
 
-**ManiaCalc** 是一个基于IMGUI库，专为osu!Mania玩家设计的成绩转换和计算工具。它支持 `score_v1` <-> `score_v2` 的成绩转换，并计算段位内单曲的 `acc`。
+**ManiaCalc** 是一个基于**IMGUI**库，专为osu!Mania玩家设计的成绩转换和计算工具。它支持 `score_v1` <-> `score_v2` 的成绩转换，并计算段位内单曲的 `acc`。
 
 段位表目前只支持Jinjin 7k Regular & LN Dan.(2025/2/26)
 
