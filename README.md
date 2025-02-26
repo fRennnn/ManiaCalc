@@ -4,7 +4,7 @@
 
 段位表目前只支持Jinjin 7k Regular & LN Dan.(2025/2/26)
 
-开发环境: Visual Studio 2022 + IMGUI库
+开发环境: Visual Studio 2022 + IMGUI & SDL2
 
 如果想在此基础上接着开发的话点点examples文件夹里面的sln文件就可以了 (大概?我没试过)
 
