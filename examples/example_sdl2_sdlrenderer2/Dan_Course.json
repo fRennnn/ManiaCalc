@@ -1,0 +1,563 @@
+{
+	"Jinjin's Regular Dan":{
+		"0th Dan":[
+			{"song_name" :"S-C-U feat. Qrispy Joybox - Anemone [7K Another] (JJ Edit)",
+			"RCs":1018,
+			"LNs":0
+			},{"song_name" :"The Flashbulb - Who You Evidently Thought Was Me [Pope's Anfractuous Derivative] (No SV, JJ Edit, Cut)",
+			"RCs":845,
+			"LNs":6
+			},{"song_name" :"Cres - End Time [Interlude] (JJ Edit)",
+			"RCs":1022,
+			"LNs":1
+			},{"song_name" :"Aqours - Yuki wa Doko ni? Kimi no Mune ni! [7K Expert]",
+			"RCs":1223,
+			"LNs":0
+			}
+		],
+		"1st Dan":[
+			{"song_name" :"dai - dir [Hard]",
+			"RCs":1436,
+			"LNs":0
+			},
+			{"song_name" :"xi - .357 Magnum [Insane] (JJ Edit)",
+			"RCs":1810,
+			"LNs":4
+			},
+			{"song_name" :"xi - Aragami [7K Insane] (Cut)",
+			"RCs":1260,
+			"LNs":52
+			},
+			{"song_name" :"Kozato - Tsuki -Yue- [Another] (JJ Edit)",
+			"RCs":1673,
+			"LNs":0
+			}
+		],
+		"2nd Dan":[
+			{"song_name" :"Various Artists - Best Cytus Compilation [Fanatic 7K East West Wobble] (JJ Edit)",
+			"RCs":1410,
+			"LNs":1
+			},
+			{"song_name" :"w_tre respect for AT&HU - Schur's Theorem [Another]",
+			"RCs":1436,
+			"LNs":0
+			},
+			{"song_name" :"xi - Hesperides [Another] (JJ Edit)",
+			"RCs":1783,
+			"LNs":1
+			},
+			{"song_name" :"M2U - Gyspy Tronic [SHD] (JJ Edit)",
+			"RCs":2080,
+			"LNs":74
+			}
+		],
+		"3rd Dan":[
+			{"song_name" :"Azu - Haryu [S.Star's Insane] (JJ Edit)",
+			"RCs":1970,
+			"LNs":0
+			},{"song_name" :"Mr.T - Electro Peaceful [7K Another] (JJ Edit)",
+			"RCs":1897,
+			"LNs":9
+			},{"song_name" :"Sakuzyo - Altale [epilogue_18] (JJ Edit)",
+			"RCs":1851,
+			"LNs":20
+			},{"song_name" :"Susumu Hirasawa - CHEVRON [Thunder]",
+			"RCs":1978,
+			"LNs":4
+			}
+		],
+		"4th Dan":[
+			{"song_name" :"toby fox - MEGALOVANIA [sans] (Edited)",
+			"RCs":2189,
+			"LNs":0
+			},
+			{"song_name" :"Aric Improta / Cameron McLellan - My Son, the Leopard [Insane] (JJ Edit)",
+			"RCs":1853,
+			"LNs":0
+			},
+			{"song_name" :"Colorful Sounds Port - ETERNAL DRAIN [Jinjin's Delayanother Lv. 8] (Edited)",
+			"RCs":2108,
+			"LNs":0
+			},
+			{"song_name" :"Mr.T - electro peaceful (8bit) [Notes of Peace] (JJ Edit)",
+			"RCs":2264,
+			"LNs":0
+			}
+		],
+		"5th Dan":[
+			{"song_name" :"Kaneko Chiharu - AciculignosA [7K Scent (No SV)] (JJ Edit)",
+			"RCs":2087,
+			"LNs":0
+			},
+			{"song_name" :"The Flashbulb - Passage D [Forbidden Path] (JJ Edit)",
+			"RCs":2166,
+			"LNs":0
+			},
+			{"song_name" :"antiPLUR - Speed of Link [Jinjin's Limit Lv.10]",
+			"RCs":1975,
+			"LNs":0
+			},
+			{"song_name" :"Izayoi Sak - Blue Planet [Blue Another]",
+			"RCs":2391,
+			"LNs":0
+			}
+		],
+		"6th Dan":[
+			{"song_name" :"Renard - Gabberse Town [Silva Edit] (JJ Edit)",
+			"RCs":1576,
+			"LNs":0
+			},{"song_name" :"The Algorithm - Isometry [Extra] (JJ Edit)",
+			"RCs":2818,
+			"LNs":0
+			},{"song_name" :"-45 - 44river [Delayanother]",
+			"RCs":2368,
+			"LNs":0
+			},{"song_name" :"Yuuyu / Yuuna sasara - Imperishable Night 2006 (2016 Refine) [7K 2016 Lunatic] (JJ Edit)",
+			"RCs":3003,
+			"LNs":0
+			}
+		],
+		"7th Dan":[
+			{"song_name" :"void - Sudden Romance [Koi (short)] (JJ Edit)",
+			"RCs":2689,
+			"LNs":0
+			},
+			{"song_name" :"incinerate - Rengoku -Purgatorium- [Jinjin's Lv.16.6]",
+			"RCs":2876,
+			"LNs":0
+			},
+			{"song_name" :"Katy B - Witches Brew [DERAY POTION] (JJ Edit)",
+			"RCs":1938,
+			"LNs":0
+			},
+			{"song_name" :"yak_won - Out Of The Blue [Ex Nihilo (BMS Style)]",
+			"RCs":2847,
+			"LNs":0
+			}
+		],
+		"8th Dan":[
+			{"song_name" :"Thaehan - Overworld [Nivrad's Double 1/6 Streams Are a Legitimate Mapping Style] (JJ Edit)",
+			"RCs":2364,
+			"LNs":2
+			},
+			{"song_name" :"Camellia - Bangin' Burst [Rage!!] (JJ Edit)",
+			"RCs":2508,
+			"LNs":0
+			},
+			{"song_name" :"Sai Oto / Komiya Mao - Yozakura [Lv.16] (JJ Edit)",
+			"RCs":2925,
+			"LNs":0
+			},
+			{"song_name" :"Chroma - Tiny Tales Continue [Recollections] (JJ Edit)",
+			"RCs":2936,
+			"LNs":0
+			}
+		],
+		"9th Dan":[
+			{"song_name" :"scytheleg - gazer [lv.17] (JJ Edit)",
+			"RCs":2420,
+			"LNs":0
+			},{"song_name" :"Stellabee - Ubiquity [Another] (JJ Edit)",
+			"RCs":2671,
+			"LNs":1
+			},{"song_name" :"ueotan - Mario Paint (Time Regression Mix for BMS) [SHD] (JJ Edit)",
+			"RCs":2230,
+			"LNs":0
+			},{"song_name" :"Helblinde - The Solace of Oblivion [Ephemerality]",
+			"RCs":3449,
+			"LNs":0
+			}
+		],
+		"10th Dan":[
+			{"song_name" :"SAMBA MASTER Satou -SATOH- - SAMBA LAND [SAMBAJACK]",
+			"RCs":3080,
+			"LNs":1
+			},
+			{"song_name" :"puru - Toki (maidable Remix) [Glitched] (Edited)",
+			"RCs":2366,
+			"LNs":0
+			},
+			{"song_name" :"beta - Blue-White Crazystars [Stellar]",
+			"RCs":2511,
+			"LNs":0
+			},
+			{"song_name" :"Getty vs. DJ DiA - Fox4-Raize- [BMSAVITY] (Edited)",
+			"RCs":3438,
+			"LNs":0
+			}
+		],
+		"Gamma Dan":[
+			{"song_name" :"SHK - Identity Part 4 [Identity: Jack] (Edited)",
+			"RCs":3085,
+			"LNs":0
+			},
+			{"song_name" :"U1 High-Speed - EGOISM 440 [EGOMANIA]",
+			"RCs":2500,
+			"LNs":0
+			},
+			{"song_name" :"Silvia - Vertex GAMMA [Tachyon]",
+			"RCs":2706,
+			"LNs":1
+			},
+			{"song_name" :"LeaF - Paraclete [Sacred]",
+			"RCs":3708,
+			"LNs":3
+			}
+		],
+		"Azimuth Dan":[
+			{"song_name" :"Manabu Namiki - TENSHI (True Final Boss) [sp10] (JJ Edit)",
+			"RCs":3642,
+			"LNs":2
+			},{"song_name" :"goreshit - najimi breakers [Immunity] (JJ Edit)",
+			"RCs":3174,
+			"LNs":0
+			},{"song_name" :"DJ TECHNORCH - Nijuu [ichi no mae]",
+			"RCs":3260,
+			"LNs":0
+			},{"song_name" :"Silentroom - Finixe [The End+]",
+			"RCs":4133,
+			"LNs":8
+			}
+		],
+		"Zenith Dan":[
+			{"song_name" :"ROKINA - Icicle Stinger [Shards]",
+			"RCs":3642,
+			"LNs":0
+			},
+			{"song_name" :"LunaticSounds - Rinjuu [Death-]",
+			"RCs":2721,
+			"LNs":1
+			},
+			{"song_name" :"Erahamonika remixed by kors k - Der Wald [Geschwindigkeiten]",
+			"RCs":3258,
+			"LNs":0
+			},
+			{"song_name" :"Frums - We Want To Run [Ascend] (Cut)",
+			"RCs":4970,
+			"LNs":4
+			}
+		],
+		"Stellium Dan":[
+			{"song_name" :"-45 - EXILE [Downfall]",
+			"RCs":4000,
+			"LNs":0
+			},
+			{"song_name" :"Aquellex - Wanderflux [Gekido's Annihilation+ (315 BPM)]",
+			"RCs":4501,
+			"LNs":1
+			},
+			{"song_name" :"onoken - P8107 (Cut) [Apocalypse]",
+			"RCs":3314,
+			"LNs":0
+			},
+			{"song_name" :"TamaDo - Triumphal Return [Victory]",
+			"RCs":4568,
+			"LNs":0
+			}
+		]
+	},
+	"Jinjin's LN Dan":{
+		"0th Dan":[
+			{"song_name" :"Tamiyasu Tomoe, Aoba Ringo - Crayon Tulip [7K 'Loli Overload' Arc] (JJ Edit)",
+			"RCs":518,
+			"LNs":302
+			},{"song_name" :"kensuke ushio - lit(var) [7K light] (JJ Edit, Cut)",
+			"RCs":302,
+			"LNs":298
+			},{"song_name" :"OkhaP - Reimu-instrumental- [Jinjin's 7K LN]",
+			"RCs":51,
+			"LNs":164
+			},{"song_name" :"Renka - if Hitori Omou [Normal] (JJ Edit)",
+			"RCs":70,
+			"LNs":177
+			}
+		],
+		"1st Dan":[
+			{"song_name" :"*namirin - Mawaru Sora Usagi [Sky Rabbit] (JJ Edit)",
+			"RCs":317,
+			"LNs":751
+			},
+			{"song_name" :"Kevin Penkin - The First Layer [7K Craving] (JJ Edit)",
+			"RCs":289,
+			"LNs":393
+			},
+			{"song_name" :"Raika - Long Note Practice Pack [Level(1)7K] / Mami Kawada - Portamento (JJ Edit, Cut)",
+			"RCs":238,
+			"LNs":299
+			},
+			{"song_name" :"Chata - Dango Daikazoku Mix Piano [TV size] [HD 7k] (JJ Edit)",
+			"RCs":149,
+			"LNs":279
+			}
+		],
+		"2nd Dan":[
+			{"song_name" :"mimimemeMIMI - Mr. Darling [Profetti's 7K MX] (JJ Edit)",
+			"RCs":886,
+			"LNs":356
+			},
+			{"song_name" :"DDRKirby(ISQ) - Take It to the Limit [Run~!] (JJ Edit)",
+			"RCs":565,
+			"LNs":633
+			},
+			{"song_name" :"Raika - Long Note Practice [Level(3)7K] / Silent Siren - Yumeoi (Cut) (JJ Edit)",
+			"RCs":323,
+			"LNs":437
+			},
+			{"song_name" :"Kyary Pamyu Pamyu - HARAJUKU IYAHOI [Sulit [HD]] (JJ Edit)",
+			"RCs":12,
+			"LNs":1094
+			}
+		],
+		"3rd Dan":[
+			{"song_name" :"Mr.T - athletic meet of sound toy [RUN!!] (JJ Edit)",
+			"RCs":666,
+			"LNs":846
+			},
+			{"song_name" :"C-Show - Panic Holic [Lv.31] (JJ Edit)",
+			"RCs":594,
+			"LNs":756
+			},
+			{"song_name" :"Various Artist - [Full LN] 7K training [BlackY vs. Yooh - XROSS INFECTION Lv. 2] (JJ Edit)",
+			"RCs":17,
+			"LNs":306
+			},
+			{"song_name" :"BEAST - 12:30 [7K LN] (JJ Edit, Cut)",
+			"RCs":192,
+			"LNs":707
+			}
+		],
+		"4th Dan":[
+			{"song_name" :"Takanashi Yasuharu - Doku Ryuu no Kobura [7K Lv.37] (JJ Edit)",
+			"RCs":489,
+			"LNs":820
+			},
+			{"song_name" :"STN - The Limbo [Rumi's MX] (JJ Edit)",
+			"RCs":312,
+			"LNs":1206
+			},
+			{"song_name" :"3L - Be Happy? (Cut) - [Jinjin's LN]",
+			"RCs":12,
+			"LNs":531
+			},
+			{"song_name" :"Mili - Main Theme [7K LN] (JJ Edit)",
+			"RCs":91,
+			"LNs":645
+			}
+		],
+		"5th Dan":[
+			{"song_name" :"Perfume - Chocolate Disco [Lv.42] (JJ Edit)",
+			"RCs":345,
+			"LNs":1171
+			},
+			{"song_name" :"Lily & Morrigan - Oath Nova Apocalypse [Phantasmagoric] (JJ Edit)",
+			"RCs":695,
+			"LNs":2000
+			},
+			{"song_name" :"nano feat. MY FIRST LOVE STORY - SAVIOR OF SONG (TV Size) [Jinjin's LNverse]",
+			"RCs":1,
+			"LNs":601
+			},
+			{"song_name" :"NAGI* - inside [Holding on]",
+			"RCs":177,
+			"LNs":441
+			}
+		],
+		"6th Dan":[
+			{"song_name" :"M2U & Nicode - Lune [Moonlight] (Edited)",
+			"RCs":441,
+			"LNs":1194
+			},
+			{"song_name" :"Schubert - Introduction And Variations 'Trockne Blumen' Variation 5 Remix&Arrange [Blocko's 7K Experte] (JJ Edit)",
+			"RCs":316,
+			"LNs":1586
+			},
+			{"song_name" :"Aqua, Megumin, Darkness - Chiisana Boukensha [Insane] (JJ Edit)",
+			"RCs":2,
+			"LNs":754
+			},
+			{"song_name" :"yanaginagi - in flight (zygani Remix) [Soaring] (JJ Edit)",
+			"RCs":104,
+			"LNs":979
+			}
+		],
+		"7th Dan":[
+			{"song_name" :"TWICE - YES or YES [YES!]",
+			"RCs":206,
+			"LNs":1590
+			},
+			{"song_name" :"Camellia - Towards the Horizon [Horizon] (JJ Edit)",
+			"RCs":711,
+			"LNs":1382
+			},
+			{"song_name" :"Jeon Young Ho - brave heart [WAWACORE!![HARD LN]] (JJ Edit)",
+			"RCs":8,
+			"LNs":1351
+			},
+			{"song_name" :"Beltaine - Rockhill [Celtic Glee]",
+			"RCs":44,
+			"LNs":1347
+			}
+		],
+		"8th Dan":[
+			{"song_name" :"Sakuzyo - Imprinting [Impression] (JJ Edit)",
+			"RCs":222,
+			"LNs":2008
+			},
+			{"song_name" :"penoreri - Sailing Force [Weigh Anchor] (JJ Edit)",
+			"RCs":634,
+			"LNs":1502
+			},
+			{"song_name" :"Moe Shop - Heart [but love is madness] (JJ Edit)",
+			"RCs":14,
+			"LNs":1451
+			},
+			{"song_name" :"TAG - Romancing Layer [Hold On!]",
+			"RCs":121,
+			"LNs":1241
+			}
+		],
+		"9th Dan":[
+			{"song_name" :"Starving Trancer - New Gravity [LNsane+]",
+			"RCs":199,
+			"LNs":1701
+			},{"song_name" :"Toromaru - Enigma [Virtuoso] (JJ Edit)",
+			"RCs":105,
+			"LNs":2054
+			},{"song_name" :"Toromaru - Hustle Beat!! [LNavity]",
+			"RCs":16,
+			"LNs":1581
+			},{"song_name" :"TOTTO - Onigami [Onihold] (Edited)",
+			"RCs":13,
+			"LNs":1664
+			}
+		],
+		"10th Dan":[
+			{"song_name" :"OSTER project - SpaceLand TOYBOX [Playful]",
+			"RCs":5,
+			"LNs":2146
+			},
+			{"song_name" :"Shiron - CODE -CRiMSON- [LNavity -CRiTiCAL- (Edited)]",
+			"RCs":180,
+			"LNs":2316
+			},
+			{"song_name" :"Mr.T - attack in the minor key [aeoLiaN] (Edited)",
+			"RCs":26,
+			"LNs":1819
+			},
+			{"song_name" :"DJ'TEKINA//SOMETHING - Internet bitch P*Light Remix [Websurfer] (Edited)",
+			"RCs":14,
+			"LNs":1694
+			}
+		],
+		"Gamma Dan":[
+			{"song_name" :"Risk Junk - quaver [LN Master]",
+			"RCs":140,
+			"LNs":2411
+			},
+			{"song_name" :"Hommarju - Hellfire [Hell LN+] (Edited)",
+			"RCs":147,
+			"LNs":2179
+			},
+			{"song_name" :"SHIKI - Pure Ruby [Crimson LNother](Edited)",
+			"RCs":4,
+			"LNs":2269
+			},
+			{"song_name" :"Cait Sith - Schrodinger no neko [Superposition] (Edited)",
+			"RCs":24,
+			"LNs":2141
+			}
+		],
+		"Azimuth Dan":[
+			{"song_name" :"DJ YOSHITAKA - JOMANDA [Azimuth] (Edited)",
+			"RCs":191,
+			"LNs":2838
+			},{"song_name" :"KAKU P-MODEL - Big Brother [AD1983.99] (Edited)",
+			"RCs":29,
+			"LNs":2443
+			},{"song_name" :"Qrispy Joybox - licca [Azimuth] (Edited)",
+			"RCs":22,
+			"LNs":2531
+			},{"song_name" :"Kaneko Chiharu - Zettai Reido [Absolute] (Edited)",
+			"RCs":3,
+			"LNs":2923
+			}
+		],
+		"Zenith Dan":[
+			{"song_name" :"technoplanet - Redshift [Zenith] (JJ Edit)",
+			"RCs":166,
+			"LNs":3074
+			},
+			{"song_name" :"LunaticSounds - Dement ~After Legend~ [Dementia] (JJ Edit)",
+			"RCs":132,
+			"LNs":2893
+			},
+			{"song_name" :"wa. - Black Lotus [Black LNother] (JJ Edit)",
+			"RCs":0,
+			"LNs":3181
+			},
+			{"song_name" :"brz1128 - Alexandrite [Holly Zenith [192 bpm] (Buffed)]",
+			"RCs":52,
+			"LNs":2852
+			}
+			
+		],
+		"Stellium Dan":[
+			{"song_name" :"Yooh - Decoy [Hard] (JJ Edit)",
+			"RCs":1192,
+			"LNs":2881
+			},
+			{"song_name" :"sak feat. myui - Unleashed World [Zola] (JJ Edit)",
+			"RCs":583,
+			"LNs":2871
+			},
+			{"song_name" :"Gram - Nibelungen (Cut Ver.) [Stellium (240bpm)] (JJ Edit)",
+			"RCs":0,
+			"LNs":3196
+			},
+			{"song_name" :"penoreri - Lancelot ~Flame of the Rebellion~ [Stellium [1.05x Rate]] (JJ Edit)",
+			"RCs":51,
+			"LNs":3670
+			}
+		]
+	},
+	"Jinjin's Insane Level(Regular)":{
+		"Stellium Dan":[
+			{"song_name" :"helloWorld",
+			"RCs":1192,
+			"LNs":2881
+			},
+			{"song_name" :"sak feat. myui - Unleashed World [Zola] (JJ Edit)",
+			"RCs":583,
+			"LNs":2871
+			},
+			{"song_name" :"Gram - Nibelungen (Cut Ver.) [Stellium (240bpm)] (JJ Edit)",
+			"RCs":0,
+			"LNs":3196
+			},
+			{"song_name" :"penoreri - Lancelot ~Flame of the Rebellion~ [Stellium [1.05x Rate]] (JJ Edit)",
+			"RCs":51,
+			"LNs":3670
+			}
+		]
+	},
+	"Jinjin's Insane Level(LN)":{
+		"Stellium Dan":[
+			{"song_name" :"helloWorld222",
+			"RCs":1192,
+			"LNs":2881
+			},
+			{"song_name" :"sak feat. myui - Unleashed World [Zola] (JJ Edit)",
+			"RCs":583,
+			"LNs":2871
+			},
+			{"song_name" :"Gram - Nibelungen (Cut Ver.) [Stellium (240bpm)] (JJ Edit)",
+			"RCs":0,
+			"LNs":3196
+			},
+			{"song_name" :"penoreri - Lancelot ~Flame of the Rebellion~ [Stellium [1.05x Rate]] (JJ Edit)",
+			"RCs":51,
+			"LNs":3670
+			}
+		]
+	}
+}
